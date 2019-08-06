@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<script>
+			function mousePosition(evt) {
+				evt = evt || window.event;
+				var xPos = evt.pageX || evt.clientX || evt.offsetX || evt.x;
+				var yPos = evt.pageY || evt.clientY || evt.offsetY || evt.y;
+				return [xPos, yPos];
+			}
+			function moveWindow(e) {
+				document.onmousemove = function(e) {
+					result.innerHTML = mousePosition(e);
+				};
+			}
+			onload = moveWindow;
+		</script>
+
+	</head>
+
+	<body>
+
+		<div id="result">
+			
+		</div>
+
+	</body>
+
+</html>
