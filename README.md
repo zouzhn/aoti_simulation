@@ -1,9 +1,9 @@
 <p align="center">
     <img src="bgk.png" alt="aoti_simulation logo" width="200" height='200' />
 </p>
-<h1 align="center">aoti_simulation</h1>
+<h1 align="center">aotisimulation</h1>
 <p align="center">
-    <em>Aoti ❤️ Simulation = aoti_simulation</em>
+    <em>Aoti ❤️ Simulation = aotisimulation</em>
 </p>
 
 
