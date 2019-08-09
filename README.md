@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="bgk.png" alt="pyecharts logo" width=200 height=200 />
+    <img src="https://github.com/zouzhn/aoti_simulation/blob/master/bgk.png" alt="pyecharts logo" width=200 height=200 />
 </p>
 <h1 align="center">aoti_simulation</h1>
 <p align="center">
